@@ -1,4 +1,4 @@
-package medium
+package leetcode
 
 /**
  * 300. Longest Increasing Subsequence
